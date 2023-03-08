@@ -1,0 +1,21 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+body{
+    background: rgb(30, 30, 30);
+    color: white;
+}
+.card{
+  background-color: rgb(19, 18, 18);
+}
+.header{
+  background-color: rgb(33, 30, 30);
+  
+}
+.hello{
+  background-color: rgb(33, 164, 149);
+}
+.hello:hover{
+  background-color: rgb(255, 0, 72);
+}
